@@ -24,8 +24,8 @@ Also, enable/ disable the component will set/reset the post processing effect of
 
 - Editor View
 
-![Editor View](https://raw.githubusercontent.com/rozx/UnityModularSystem/master/Screenshots/editor.PNG)
+![Editor View](https://raw.githubusercontent.com/rozx/Sprite-Postprocessing-Tool-Unity/master/screenshots/screenshot2.PNG)
 
 - Example Preview
 
-![Example](https://raw.githubusercontent.com/rozx/UnityModularSystem/master/Screenshots/preview.PNG)
+![Example](https://raw.githubusercontent.com/rozx/Sprite-Postprocessing-Tool-Unity/master/screenshots/screenshot1.PNG)
