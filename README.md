@@ -2,6 +2,8 @@
 
 This unity post processing plugin that let's you create different effects for the unity UI image or Sprite Renderer component. 
 
+**For static image only, not supporting animations.**
+
 # How to use it?
 
 Make sure that under the **import settings** for the texture, in **Advanced**, the **Read/Write Enable** option is enabled. Then attach the ```SpritePostprocessing.cs``` script to any gameObjects that have UI Image or Sprite Renderer component attached.
