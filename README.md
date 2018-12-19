@@ -1,3 +1,3 @@
-# UI-Image-Postprocessing
+# Sprite-Postprocessing-Tool
 
-The post processing unity plugin that let's you create different effects for the unity UI image component. 
+This unity post processing plugin that let's you create different effects for the unity UI image or Sprite Renderer component. 
