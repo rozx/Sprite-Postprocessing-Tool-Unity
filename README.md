@@ -20,6 +20,7 @@ The ```SpritePostprocessing.cs``` will automatic find the source (which is the U
 ## Note
 
 When changed the value, call ```ApplyTextureChanges()``` to apply the changes.
+When you want to reset the sprite to default, call ```Reset()```.
 Also, enable/ disable the component will set/reset the post processing effect of sprite.
 
 # Screenshots
